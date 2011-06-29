@@ -1,7 +1,7 @@
 #import <UIKit/UIPushButton.h>
 #import <UIKit/UIAlert.h>
 #import <UIKit/UIHardware.h>
-#import <UIProgressHUD.h>
+#import <UIKit/UIProgressHUD.h>
 
 @interface PLPhotoScrollerViewController : UIViewController
 -(UIImage *)currentUIImage;
