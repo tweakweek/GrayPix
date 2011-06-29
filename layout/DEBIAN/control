@@ -1,6 +1,6 @@
 Package: net.limneos.graypix
 Name: GrayPix
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 4.0)
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Convert your pictures to grayscale!
